@@ -1,0 +1,66 @@
+/* Styling Nav */
+
+.navbar-default {
+	border:none;
+}
+
+.navbar {
+	background-color:#a9a9a9;
+	color:#000;
+	border-radius: 0;
+	border-bottom: 1px #000 solid;
+}
+
+.navbar-default .navbar-brand {
+	color:#000;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #000;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border:none;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #777;
+    background: #fff;
+}
+
+
+#bs-example-navbar-collapse-1 {
+    background-color: #a9a9a9;
+}
+
+.nav>li {
+    position: relative;
+    display: block;
+    border-bottom: 1px solid #000;
+}
+
+.navbar-nav {
+    margin-top: 0;
+    margin-bottom:0;
+}
+
+/* Styling Content */
+
+h1 {
+	font-size:26px;
+	text-transform: uppercase;
+	margin-top:30px;
+	margin-bottom: 30px
+}
+
+h3 {
+	font-size:18px;
+	text-transform: uppercase;
+	margin-top:10px;
+}
+
+article {
+	background-color:#a9a9a9;
+	padding:10px;
+}
+
